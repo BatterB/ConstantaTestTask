@@ -9,5 +9,5 @@ class RecyclerViewModule {
     @Provides
     fun provideMoviesAdapter() : MovieAdapter{
         return MovieAdapter()
-    }
+    } 
 }
